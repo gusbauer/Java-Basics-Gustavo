@@ -22,7 +22,7 @@ Ejercicios utilizando la clase **Math**:
 - Operaciones trigonométricas
 - Simulación de dados y cálculos numéricos
 
-### 🔹 **scanner/**
+### **scanner/**
 Programas basados en entrada de datos por consola usando **Scanner**:
 - Lectura de diferentes tipos de datos
 - Validación de entrada del usuario
@@ -35,7 +35,7 @@ Ejercicios enfocados en:
 - Reutilización de código
 - Modularización
 
-### 🔹 **EJava**, **ebpptjava**, **pptjava**
+### **EJava**, **ebpptjava**, **pptjava**
 Carpetas con prácticas variadas que incluyen:
 - Estructuras de control (if, else, switch)
 - Bucles (for, while, do-while)
